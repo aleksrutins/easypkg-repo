@@ -1,0 +1,9 @@
+{
+  "packages": [
+    {
+      "name": "hello-world-easypack",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/munchkinhalfling/hello-world-easypack/master/easypack-hello-world@1.0.0.easypack.tar.gz"
+    }
+  ]
+}
